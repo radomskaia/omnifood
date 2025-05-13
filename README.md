@@ -27,7 +27,7 @@ By building this project from scratch, I gained hands-on experience in developin
 
 ## Live Site
 
-Check out the live site [here](https://omnifood-aradomskaia.netlify.app/).
+Check out the live site [here](https://radomskaia.github.io/omnifood/).
 
 ---
 
